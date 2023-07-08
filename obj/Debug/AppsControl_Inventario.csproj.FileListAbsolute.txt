@@ -1,0 +1,15 @@
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\bin\Debug\AppsControl_Inventario.exe.config
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\bin\Debug\AppsControl_Inventario.exe
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\bin\Debug\AppsControl_Inventario.pdb
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.csproj.AssemblyReference.cache
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.csproj.SuggestedBindingRedirects.cache
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.FrmMenu.resources
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.Properties.Resources.resources
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.UI.FrmInputProducts.resources
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.UI.FrmLogin.resources
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.UI.FrmOutputProducts.resources
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.UI.FrmSales.resources
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.csproj.GenerateResource.cache
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.csproj.CoreCompileInputs.cache
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.exe
+C:\Users\lnorm\Documents\Visual Studio 2022\Proyectos\Mis_Proyectos\AppsControl_Inventario\obj\Debug\AppsControl_Inventario.pdb
